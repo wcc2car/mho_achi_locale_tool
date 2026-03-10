@@ -8,7 +8,9 @@ Thanks to the MHServerEMU project: https://github.com/Crypto137/MHServerEmu
 
 This is my "Python Newbie Village Leveling Loot" :)
 
+
 [====== CHT Text  ======]
+
 "MarvelHeroes Omega" 遊戲的成就系統, 字串檔多語言編修工具
 
 - 功能包括：匯出語言‚匯入語言‚刪除語言, 檢測語言檔(.Json)格式完整性.
